@@ -1,0 +1,4 @@
+﻿  win.lex.yy.c
+lexical.lex(109,13): warning C4013: 'backToFirst' undefined; assuming extern returning int
+lexical.lex(119,21): warning C4013: 'emptyCreateAndStore' undefined; assuming extern returning int
+  lolz69.vcxproj -> C:\Users\sgdar\Desktop\lolz69\Debug\lolz69.exe
